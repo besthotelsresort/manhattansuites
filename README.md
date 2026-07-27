@@ -1,0 +1,2 @@
+# manhattansuites
+Static site: manhattansuites
